@@ -15,8 +15,8 @@ This project works through the credit loan default dataset found on kaggle (http
 ## Results
 
 ### Contributors
-Somaya Ahmadi
-Corrine Bresky
-Kaitlyn McFadden
-Sayuri Nagai
-Nazifa Rahman
+Somaya Ahmadi  
+Corrine Bresky  
+Kaitlyn McFadden  
+Sayuri Nagai  
+Nazifa Rahman  
